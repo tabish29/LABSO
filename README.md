@@ -11,8 +11,8 @@ Questo progetto consiste in un'applicazione server multi-client in Java che simu
 
 ### Passo 1: Aprire i Prompt dei Comandi
 
-Aprire un prompt dei comandi per il server e diversi prompt dei comandi per i client.
-   - Assicurarsi di aprire tanti prompt dei comandi quanti sono i client che desideri utilizzare (almeno due client sono consigliati per osservare la concorrenza).
+Aprire un prompt dei comandi per il server e  diversi prompt dei comandi per i client.
+   - Assicurarsi di aprire tanti prompt dei comandi quanti sono i client che si desidera utilizzare (almeno due client sono consigliati per osservare la concorrenza).
 
 ### Passo 2: Compilare i File Java
 
