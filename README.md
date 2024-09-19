@@ -34,4 +34,4 @@ Avviare in prompt diversi il numero di client che si vogliono aggiungere con il 
   java Client localhost n-porta
 ```
 ### Passo 5: Visualizzare i Comandi Disponibili
-Per visualizzare i comandi disponibili e la loro funzionalità, digita il comando info all'interno del client e premi Invio
+Per visualizzare i comandi disponibili e la loro funzionalità, digitare il comando info all'interno del client e premere Invio
